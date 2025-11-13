@@ -1,1 +1,0 @@
-print('Estou praticando python! Uhuul!')
